@@ -3,6 +3,7 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
+[Note]: Usecases and entities are added in the layer. Communication of BLoC is pending. 
 
 Weather app will look like this as shown below and for now it has static data:
 <table>
