@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:weather/generated/assets.gen.dart';
 
 class WeekWeatherView extends StatelessWidget {
-  const WeekWeatherView({Key? key})
-      : super(key: key);
+  const WeekWeatherView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
