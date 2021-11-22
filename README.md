@@ -3,8 +3,19 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
+
+Weather app will look like this as shown below and for now it has static data:
+<table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/24449076/142826412-aaef939e-26e5-4d81-9a28-1fd468e7b264.png" title="Dashboard" width="180" height="350" /></td>
+   </tr>
+</table>
+
+
 Architecture being followed in app is illustrated in below picture:
 ![Clean architecture](https://miro.medium.com/max/4800/1*ggdsjSaIY2Q_PHG-Db0BVQ.png)
+
+
 ---
 
 ## Getting Started 🚀
