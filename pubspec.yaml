@@ -8,16 +8,22 @@ environment:
 
 dependencies:
   bloc: ^8.0.1
+  equatable: ^2.0.3
   dio: ^4.0.3
   flutter:
     sdk: flutter
+  get_it: ^7.2.0
   flutter_bloc: ^8.0.0
   flutter_localizations:
     sdk: flutter
   google_fonts: ^2.1.0
   intl: ^0.17.0
   lottie: ^1.2.1
+  network:
+    path: packages/network
   pull_to_refresh: ^2.0.0
+  weather_repository:
+    path: packages/weather_repository
 
 dev_dependencies:
   bloc_test: ^9.0.1
