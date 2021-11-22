@@ -13,7 +13,7 @@ Weather app will look like this as shown below and for now it has static data:
 
 
 Architecture being followed in app is illustrated in below picture:
-![Clean architecture](https://miro.medium.com/max/4800/1*ggdsjSaIY2Q_PHG-Db0BVQ.png)
+![Clean architecture](https://miro.medium.com/max/4800/1*WWcsH7w4vAmROLJGXDogFw.png)
 
 
 ---
