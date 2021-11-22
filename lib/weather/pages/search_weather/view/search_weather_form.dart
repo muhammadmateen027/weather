@@ -22,8 +22,5 @@ class SearchWeatherForm extends StatelessWidget {
     );
   }
 
-  Future<Null> _refreshLocalGallery() async{
-    print('refreshing stocks...');
-
-  }
+  Future _refreshLocalGallery() async {}
 }

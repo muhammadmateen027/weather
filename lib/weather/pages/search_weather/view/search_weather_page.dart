@@ -23,7 +23,7 @@ class _SearchWeatherPageState extends State<SearchWeatherPage> {
               end: Alignment.bottomLeft,
             ),
           ),
-          child:const SearchWeatherForm(),
+          child: const SearchWeatherForm(),
         ),
       ),
     );

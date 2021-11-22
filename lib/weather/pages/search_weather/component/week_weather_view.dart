@@ -2,14 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:weather/generated/assets.gen.dart';
 
 class WeekWeatherView extends StatelessWidget {
-  const WeekWeatherView({Key? key, this.week = const [1, 2, 3, 4, 5, 6, 7]})
+  const WeekWeatherView({Key? key})
       : super(key: key);
-
-  final List<int> week;
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
     final weatherType = [
       Assets.clear.path,
       Assets.hail.path,

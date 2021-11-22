@@ -23,9 +23,9 @@ class SearchView extends StatelessWidget {
             },
             padding: const EdgeInsets.only(left: 12),
             placeholderStyle: theme.textTheme.bodyText2!.copyWith(
-                  fontWeight: FontWeight.normal,
-                  color: Colors.grey,
-                ),
+              fontWeight: FontWeight.normal,
+              color: Colors.grey,
+            ),
             suffix: IconButton(
               onPressed: () {
                 // context.read<SearchBloc>().add(SearchUser(controller.text));

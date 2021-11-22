@@ -22,9 +22,9 @@ dependencies:
 dev_dependencies:
   bloc_test: ^9.0.1
   build_runner: ^2.1.5
+  flutter_gen_runner: ^4.1.2
   flutter_test:
     sdk: flutter
-  flutter_gen_runner: ^4.1.2
   mocktail: ^0.2.0
   very_good_analysis: ^2.4.0
 
